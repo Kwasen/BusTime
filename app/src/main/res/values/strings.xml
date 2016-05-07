@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BusTime</string>
+
+    <!--Strings about Users and Log in-->
+    <string name="user1_name">Kanye</string>
+    <string name="user1_email">kanye@goodmail.com</string>
+    <string name="logInButton">Log In</string>
+    <string name="signUpButton">Sign Up with Google</string>
+    <string name="enter_username">enter username</string>
+    <string name="enter_password">enter password</string>
+    <string name="Loading_Complete">Loading Complete</string>
+
+    <!--Strings about menu items-->
+    <string name="menu_profile">Profile</string>
+    <string name="menu_setup">Tracking Setup</string>
+    <string name="menu_tutorial">How to use</string>
+    <string name="menu_routes">Bus Routes</string>
+
+    <!--future menu items to improve on-->
+    <string name="menu_share">Share</string>
+    <string name="menu_report">Report Bug</string>
+
+    <!--Auto-generated-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_about">About Application</string>
+    <string name="title_activity_login">Sign in</string>
+
+
+</resources>
