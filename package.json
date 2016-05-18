@@ -1,0 +1,30 @@
+{
+  "name": "bustime",
+  "version": "1.0.0",
+  "description": "An application that estimates arrival time of a vehicle relative to it's arrival destination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kwasen/BusTime.git"
+  },
+  "keywords": [
+    "gps",
+    "navigation"
+  ],
+  "author": "Mabweh Isaac Kwasen <imabweh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kwasen/BusTime/issues"
+  },
+  "homepage": "https://github.com/Kwasen/BusTime#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "firebase": "^2.4.2",
+    "geofire": "^4.0.0",
+    "google-distance": "^1.0.1",
+    "googlemaps": "^1.6.0"
+  }
+}
